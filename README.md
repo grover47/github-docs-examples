@@ -1,7 +1,7 @@
 # Writing Good Documentation
 
-## Step 1 - Using Codeblocks
+## Step 1: Using Codeblocks
 
-Codeblocks make it easy for tech people to ** copy, paste and share code **. A cloud engineer uses Codebloocks when ever possible.
+Codeblocks make it easy for tech people to ** copy, paste, and share code **. A cloud engineer uses Codebloocks whenever possible.
 
-Because is allows otgers to copy and paste their code to replicate or research issuses.
+Because it allows users to copy and paste their code to replicate or research issues.
