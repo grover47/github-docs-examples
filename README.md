@@ -36,4 +36,5 @@ console.log(dateTime)
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
 - [Criteria for including a screenshot](https://docs.github.com/en/contributing/writing-for-github-docs/creating-screenshots#criteria-for-including-a-screenshot)
+- [Github Cheat Sheet for Emoji](https://gist.github.com/rxaviers/7360908)
  
