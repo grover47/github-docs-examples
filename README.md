@@ -24,6 +24,14 @@ console.log(dateTime)
 
 > Here is an example of Quoting using Codeblock in Bash
 
+
+## Step 3 - Use Github flavored MarkDown Task Lists
+
+- [x] Step 1
+- [ ] Step 2
+- [ ] Step 3
+- [ ] Step 4
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
