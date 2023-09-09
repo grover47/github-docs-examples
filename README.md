@@ -23,3 +23,8 @@ console.log(dateTime)
 ![Bowie   Beaumont](https://github.com/grover47/github-docs-examples/assets/10213341/922bd712-ab04-42de-84b0-70fa329476b2)
 
 > Here is an example of Quoting using Codeblock in Bash
+
+## References
+
+- [GitHub Flavored Markdown Spec]https://github.github.com/gfm/#what-is-github-flavored-markdown-
+- https://docs.github.com/en/contributing/writing-for-github-docs/creating-screenshots#criteria-for-including-a-screenshot
